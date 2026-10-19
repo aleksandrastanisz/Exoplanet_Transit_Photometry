@@ -29,7 +29,7 @@ The pipeline was validated against Quarter 2 observations of TrES-2 (KIC 1144644
 
 Transit depth is measured from binned phase-folded flux at mid-transit:
 
-$$\delta \approx \left(\frac{R_p}{R_*}\right)^2 \implies R_p = R_* \sqrt{\delta}$$
+$$\delta \approx \left(\frac{R_p}{R_\ast}\right)^2 \implies R_p = R_\ast \sqrt{\delta}$$
 
 Semi-major axis is computed via Kepler's Third Law using stellar mass ($M_* \approx 0.98 M_\odot$):
 
