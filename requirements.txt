@@ -1,0 +1,6 @@
+lightkurve
+astropy
+numpy
+matplotlib
+Lightkurve
+astropy
