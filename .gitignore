@@ -1,1 +1,13 @@
-.idea
+venv/
+.venv/
+.idea/
+.vscode/
+
+__pycache__/
+*.pyc
+
+data/raw/
+.lightkurve-cache/
+
+.DS_Store
+Thumbs.db

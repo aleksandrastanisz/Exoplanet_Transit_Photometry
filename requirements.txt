@@ -1,6 +1,4 @@
-lightkurve
-astropy
-numpy
-matplotlib
-Lightkurve
-astropy
+lightkurve>=2.4.0
+astropy>=5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
